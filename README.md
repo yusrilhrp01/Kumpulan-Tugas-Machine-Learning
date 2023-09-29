@@ -1,2 +1,3 @@
-# Tugas-1-Machine-Learning
-Pengumpulan Tugas 1 Machine Learning
+M Yusril Fauzan Hrp
+1103204015
+Tugas Machine Learning
